@@ -1,5 +1,6 @@
 # Gabor
 （图文无关₍ᐢ..ᐢ₎♡，目前Ableabc也是初学者，一起学习吧）
+简单讲解的视频地址：https://www.bilibili.com/video/BV1fu4y1f7j8/?spm_id_from=333.999.0.0&vd_source=ef1fa2ad7e7e221ada15ff8f9748890d
 ![](https://hi77-overseas.mangafuna.xyz/recommend/2023/05/16848540321146.png)
 # skimage.filters.gabor（）函数返回的是图像变换后的实部和虚部，在图像识别领域一般使用其模作为图像特征
 在图像处理领域，以Dennis Gabor命名的Gabor滤波器，是一种用于纹理分析的线性滤波器，即它主要分析的是，图像在某一特定区域的特定方向上是否有特定的频率内容。当代许多视觉科学家认为，Gabor滤波器的频率和方向的表达与人类的视觉系统很相似，尽管并没有实验性证据和函数原理能证明这一观点。研究发现，Gabor滤波器特别适合于纹理表示和辨别。在空间域中，2D Gabor滤波器是由正弦平面波调制的高斯核函数。
